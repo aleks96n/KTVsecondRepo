@@ -1,1 +1,0 @@
-.log is Django stuff, where the file most likely contains errors and logs
