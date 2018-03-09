@@ -1,0 +1,3 @@
+[user]
+	name = aleks96n
+	email = aleksnik1996@gmail.com
